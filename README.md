@@ -1,1 +1,1 @@
-# adminify-client
+# umi-admin-tmplate
